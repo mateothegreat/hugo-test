@@ -1,0 +1,9 @@
+---
+label: asdf
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: sasdf
+  label: sasdf
+  default: asd fasdfsdfsdf
